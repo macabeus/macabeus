@@ -1,5 +1,5 @@
 <h3>
-  <p align="center"><img align="center" src="https://www.clipartmax.com/png/full/24-246886_eevee-waving-by-kittycateevee-eevee-waving-gif.png" height="75px" /> Welcome!</p>
+  <p align="center"><img align="center" src="https://github.com/macabeus/macabeus/blob/master/assets/eevee.png?raw=true" height="75px" /> Welcome!</p>
 </h3>
 
 <hr />
@@ -36,5 +36,5 @@ You could check on my profile some packages and contributions, and these are the
 ## 🌐&nbsp;&nbsp;&nbsp;Social Media
 
 - <a href="https://twitter.com/bmacabeus">
-  <img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" height="16px" />&nbsp;&nbsp;&nbsp;twitter.com/bmacabeus
+  <img src="https://github.com/macabeus/macabeus/blob/master/assets/twitter.png?raw=true" height="16px" />&nbsp;&nbsp;&nbsp;twitter.com/bmacabeus
 </a>
