@@ -14,7 +14,7 @@ I love to explore computers subjects that normally we won't use on a workday. I'
     <td>Learn about reverse engineering using a GBA game as a case study</td>
     <td width="30%">
       🎥 With talks (🇺🇸)<br>
-      📄 With blogposts (🇺🇸 / 🇧🇷)
+      📄 With blogposts (🇺🇸 / 🇧🇷 / 🇪🇸)
     </td>
   </tr>
   <tr>
@@ -26,15 +26,24 @@ I love to explore computers subjects that normally we won't use on a workday. I'
   </tr>
 </table>
 
+## 🧑‍💻&nbsp;&nbsp;&nbsp;VSCode-related stuffs
+
+Are you like VSCode? Check my projects about that!
+
+<table>
+  <tr>
+    <td><a href="https://github.com/macabeus/vscode-fluent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=vscode-fluent" /></a></td>
+    <td><a href="https://github.com/macabeus/jest-environment-vscode-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=jest-environment-vscode-extension" /></a></td>
+  </tr>
+</table>
+
 ## 🔧&nbsp;&nbsp;&nbsp;Currently working on...
 
-You could check on my profile some packages and contributions, and these are the ones that I'm currently developing:
+You could check on my profile the projects I've helped. Sometimes I'm working on my own initiatives, sometimes on communities' projects. I'm currently working on:
 
-- <strong><a href="https://github.com/macabeus/vscode-fluent">vscode-fluent</a>:</strong> VS Code extension to work with Fluent, the correct-by-design l10n programming language
-- <strong><a href="https://github.com/macabeus/fluent-typescript">fluent-typescript</a>:</strong> Devtool to generate automatically TypeScript declarations for Fluent files
+- <strong><a href="https://github.com/wesnoth/wesnoth">wesnoth</a>:</strong> contributing for this amazing and nostalgic opensource game
 
-## 🌐&nbsp;&nbsp;&nbsp;Social Media
+## 🌐&nbsp;&nbsp;&nbsp;More
 
-- <a href="https://twitter.com/bmacabeus">
-  <img src="https://github.com/macabeus/macabeus/blob/master/assets/twitter.png?raw=true" height="16px" />&nbsp;&nbsp;&nbsp;twitter.com/bmacabeus
-</a>
+- <a href="http://macabeus.github.io/">Site</a>
+- <a href="https://twitter.com/bmacabeus">Twitter</a>
