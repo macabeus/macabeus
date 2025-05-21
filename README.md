@@ -28,12 +28,11 @@ I love to explore computers subjects that normally we won't use on a workday. I'
 
 ## 🧑‍💻&nbsp;&nbsp;&nbsp;VSCode-related stuffs
 
-Are you like VSCode? Check my projects about that!
+Do you like VSCode? Check my VS Code for the [Fluent language](https://projectfluent.org/)!
 
 <table>
   <tr>
     <td><a href="https://github.com/macabeus/vscode-fluent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=vscode-fluent" /></a></td>
-    <td><a href="https://github.com/macabeus/jest-environment-vscode-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=jest-environment-vscode-extension" /></a></td>
   </tr>
 </table>
 
@@ -41,7 +40,7 @@ Are you like VSCode? Check my projects about that!
 
 You could check on my profile the projects I've helped. Sometimes I'm working on my own initiatives, sometimes on communities' projects. I'm currently working on:
 
-- <strong><a href="https://github.com/wesnoth/wesnoth">wesnoth</a>:</strong> contributing for this amazing and nostalgic opensource game
+- [Game decompilation using AI](https://gambiconf.substack.com/p/development-journey-on-game-decompilation)
 
 ## 🌐&nbsp;&nbsp;&nbsp;More
 
