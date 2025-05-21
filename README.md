@@ -38,7 +38,7 @@ Do you like VSCode? Check my VS Code for the [Fluent language](https://projectfl
 
 ## 🔧&nbsp;&nbsp;&nbsp;Currently working on...
 
-You could check on my profile the projects I've helped. Sometimes I'm working on my own initiatives, sometimes on communities' projects. I'm currently working on:
+I'm currently working on:
 
 - [Game decompilation using AI](https://gambiconf.substack.com/p/development-journey-on-game-decompilation)
 
