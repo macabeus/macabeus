@@ -33,6 +33,7 @@ Do you like VSCode? Check my VS Code for the [Fluent language](https://projectfl
 <table>
   <tr>
     <td><a href="https://github.com/macabeus/vscode-fluent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=vscode-fluent" /></a></td>
+    <td><a href="https://github.com/macabeus/kappa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=kappa" /></a></td>
   </tr>
 </table>
 
