@@ -1,0 +1,52 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate klo-gba.js pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=macabeus&repo=klo-gba.js
+          path: cards/pin-klo-gba.js.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate macro-compiler pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=macabeus&repo=macro-compiler
+          path: cards/pin-macro-compiler.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate vscode-fluent pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=macabeus&repo=vscode-fluent
+          path: cards/pin-vscode-fluent.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate kappa pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=macabeus&repo=kappa
+          path: cards/pin-kappa.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add cards/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

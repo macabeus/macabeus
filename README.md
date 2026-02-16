@@ -10,7 +10,7 @@ I love exploring fascinating computer science topics that go beyond typical day-
 
 <table>
   <tr>
-    <td><a href="https://github.com/macabeus/klo-gba.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=klo-gba.js" /></a></td>
+    <td><a href="https://github.com/macabeus/klo-gba.js"><img src="./cards/pin-klo-gba.js.svg" /></a></td>
     <td>Learn about reverse engineering using a GBA game as a case study</td>
     <td width="30%">
       🎥 With talks (🇺🇸)<br>
@@ -18,7 +18,7 @@ I love exploring fascinating computer science topics that go beyond typical day-
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/macabeus/macro-compiler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=macro-compiler" /></a></td>
+    <td><a href="https://github.com/macabeus/macro-compiler"><img src="./cards/pin-macro-compiler.svg" /></a></td>
     <td>Demystifying compilers by writing your own</td>
     <td>
       🎥 With talks (🇺🇸 / 🇧🇷)
@@ -32,8 +32,8 @@ Love VS Code? Check out my extensions for the [Fluent language](https://projectf
 
 <table>
   <tr>
-    <td><a href="https://github.com/macabeus/vscode-fluent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=vscode-fluent" /></a></td>
-    <td><a href="https://github.com/macabeus/kappa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=macabeus&repo=kappa" /></a></td>
+    <td><a href="https://github.com/macabeus/vscode-fluent"><img src="./cards/pin-vscode-fluent.svg" /></a></td>
+    <td><a href="https://github.com/macabeus/kappa"><img src="./cards/pin-kappa.svg" /></a></td>
   </tr>
 </table>
 
