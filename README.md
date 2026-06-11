@@ -10,6 +10,14 @@ I love exploring fascinating computer science topics that go beyond typical day-
 
 <table>
   <tr>
+    <td><a href="https://github.com/macabeus/mizuchi"><img src="./cards/pin-mizuchi.svg" /></a></td>
+    <td>Matching decompilation on retro games + AI</td>
+    <td width="30%">
+      🎥 With talks (🇺🇸)<br>
+      📄 With blogposts (🇺🇸)
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/macabeus/klo-gba.js"><img src="./cards/pin-klo-gba.js.svg" /></a></td>
     <td>Learn about reverse engineering using a GBA game as a case study</td>
     <td width="30%">
