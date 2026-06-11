@@ -51,6 +51,7 @@ I'm the organizer of [**GambiConf**](https://gambiconf.dev/), an event for Portu
 
 I also speak at various events. Some of my favorite presentations:
 
+- 🇺🇸 [Retro Game Decompilation Using AI](https://www.youtube.com/watch?v=sF_Yk0udbZw)
 - 🇺🇸 [Demystifying compilers by writing your own](https://www.youtube.com/watch?v=zMJYoYwOCd4)
 - 🇺🇸 [The day I reverse engineered a furry Gameboy Advance game](https://www.youtube.com/watch?v=RMM_5bq3Ct8)
 - 🇺🇸 [Fluent: A localization system for natural-sounding translations](https://www.youtube.com/watch?v=kHHFcuQq70k&t=357s)
