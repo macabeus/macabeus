@@ -47,7 +47,7 @@ Love VS Code? Check out my extensions for the [Fluent language](https://projectf
 
 ## 🐒&nbsp;&nbsp;&nbsp;Community
 
-I'm the organizer of [**GambiConf**](https://gambiconf.dev/), an event for Portuguese-speaking audiences inspired by [!!Con](https://bangbangcon.com/) that celebrates the joy and playful side of the computing.
+I'm the organizer of [**GambiConf**](https://gambiconf.dev/), an event in Brazil that celebrates the joy and playful side of the computing.
 
 I also speak at various events. Some of my favorite presentations:
 
