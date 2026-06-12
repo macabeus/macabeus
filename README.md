@@ -67,8 +67,7 @@ I'm currently working on:
 
 ## 🌐&nbsp;&nbsp;&nbsp;Connect with Me
 
-- <a href="http://macabeus.github.io/">Website</a>
-- <a href="https://www.twitch.tv/bmacabeus">Twitch</a>
 - <a href="https://twitter.com/bmacabeus">Twitter</a>
 - <a href="https://bsky.app/profile/macabeus.bsky.social">Bluesky</a>
 - <a href="https://www.linkedin.com/in/macabeus">LinkedIn</a>
+- <a href="http://macabeus.github.io/">Website</a>
