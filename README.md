@@ -63,7 +63,7 @@ I also speak at various events. Some of my favorite presentations:
 
 I'm currently working on:
 
-- [Game decompilation using AI](https://gambiconf.substack.com/p/development-journey-on-game-decompilation)
+- [Game decompilation using AI](https://gambiconf.substack.com/p/starting-a-decompilation-project)
 
 ## 🌐&nbsp;&nbsp;&nbsp;Connect with Me
 
