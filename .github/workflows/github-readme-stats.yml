@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/github-readme-stats.yml
 
 jobs:
   build:
@@ -53,6 +57,24 @@ jobs:
           card: pin
           options: username=macabeus&repo=mizuchi
           path: cards/pin-mizuchi.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate asmlift pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=macabeus&repo=asmlift
+          path: cards/pin-asmlift.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate transmuter pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=macabeus&repo=transmuter
+          path: cards/pin-transmuter.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
