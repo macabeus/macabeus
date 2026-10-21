@@ -14,16 +14,16 @@ In my spare time, I build tools for retro game decompilation, organize [GambiCon
 
 <table>
   <tr>
-    <td><a href="https://github.com/macabeus/mizuchi"><img src="./cards/pin-mizuchi.svg" alt="Mizuchi repository card" /></a></td>
-    <td>Make benchmark to evaluate matching decompilation using AI and programmatic tools.</td>
-    <td>
+    <td width="40%"><a href="https://github.com/macabeus/mizuchi"><img src="./cards/pin-mizuchi.svg" alt="Mizuchi repository card" /></a></td>
+    <td width="40%">Make benchmark to evaluate matching decompilation using AI and programmatic tools.</td>
+    <td width="20%">
       📄 <a href="https://gambiconf.substack.com/p/can-llms-really-do-matching-decompilation">Benchmarks post</a>
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/macabeus/kappa"><img src="./cards/pin-kappa.svg" alt="Kappa repository card" /></a></td>
     <td>A VS Code extension for matching decompilation with AI-powered features.</td>
-    <td width="25%">
+    <td>
       🧩 <a href="https://marketplace.visualstudio.com/items?itemName=macabeus.kappa">Marketplace</a><br>
       📄 <a href="https://gambiconf.substack.com/p/development-journey-on-game-decompilation">Blog post</a>
     </td>
@@ -51,9 +51,9 @@ Want the full story? Watch my talk [Retro Game Decompilation Using AI](https://w
 
 <table>
   <tr>
-    <td><a href="https://github.com/macabeus/klo-gba.js"><img src="./cards/pin-klo-gba.js.svg" alt="klo-gba.js repository card" /></a></td>
-    <td>A web level editor for <i>Klonoa: Empire of Dreams</i>, and a case study for learning reverse engineering on a GBA game.</td>
-    <td width="25%">
+    <td width="40%"><a href="https://github.com/macabeus/klo-gba.js"><img src="./cards/pin-klo-gba.js.svg" alt="klo-gba.js repository card" /></a></td>
+    <td width="40%">A web level editor for <i>Klonoa: Empire of Dreams</i>, and a case study for learning reverse engineering on a GBA game.</td>
+    <td width="20%">
       🕹️ <a href="http://macabeus.github.io/klo-gba.js/">Editor</a><br>
       📄 Posts (<a href="https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02">🇺🇸</a> / <a href="https://medium.com/@bruno.macabeus/pt-br-engenharia-reversa-num-jogo-de-gameboy-advance-introdu%C3%A7%C3%A3o-21ebffe2f794">🇧🇷</a> / <a href="https://macabeus.medium.com/ingenier%C3%ADa-inversa-de-un-juego-de-game-boy-advance-gu%C3%ADa-completa-dd5167f70263">🇪🇸</a>)
     </td>
